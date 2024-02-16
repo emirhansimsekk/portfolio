@@ -31,7 +31,7 @@ const HeroSection = () => {
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
           </p>
           <div>
-            <button className='px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-blue-400 to-blue-500 text-white hover:bg-slate-200'>Hire Me</button>
+            <button className='px-[30%] py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-blue-400 to-blue-500 text-white hover:bg-slate-200'>Hire Me</button>
             <button className='px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-blue-500 via-blue-300 to-blue-500 hover:bg-slate-800 text-white mt-3'>
               <span className='block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2 '>Download CV </span>
             </button>

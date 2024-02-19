@@ -22,7 +22,7 @@ const AboutSection = () => {
           About Me
         </h2>
         <p className="text-base lg:text-lg">
-          Im Emirhan, Im a mobile developer and a backend developer.
+          {`I'm Emirhan, Im a mobile developer and a backend developer.`}
         </p>
         <div className="flex flex-row mt-8">
           <TabButton selectTab={() => handleTabChange("skills")} active={tab==="skills"}>

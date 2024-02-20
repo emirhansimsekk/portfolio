@@ -43,7 +43,7 @@ const projectsData = [
     {
       id: 5,
       title: "Intern Project",
-      description: "Authentication and CRUD operations",
+      description: "A basic Kotlin project where current libraries used in this field such as Room, LiveData, Retrofit, Picasso are implemented.",
       image: "/images/2.png",
       tag: ["All", "Mobile"],
       gitUrl: "https://github.com/emirhansimsekk/InternProject",

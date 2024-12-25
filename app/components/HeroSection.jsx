@@ -7,12 +7,12 @@ import Link from "next/link";
 const HeroSection = () => {
   const handleDownload = () => {
 
-    const downloadLink = '/download/cv.pdf';
+    const downloadLink = '/download/Emirhan-Şimşek-Resume-20241225.pdf';
 
 
     const link = document.createElement('a');
     link.href = downloadLink;
-    link.download = 'cv.pdf';
+    link.download = 'Emirhan-Şimşek-Resume.pdf';
 
 
     document.body.appendChild(link);

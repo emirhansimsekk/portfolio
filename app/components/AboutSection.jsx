@@ -13,9 +13,8 @@ const TAB_DATA = [
         <li>Node.js</li>
         <li>Express</li>
         <li>Kotlin</li>
-        <li>Python</li>
         <li>PostgreSQL</li>
-        <li>ArcGIS for .NET</li>
+        <li>Java, Spring Framework</li>
 
       </ul>
     ),
@@ -36,7 +35,6 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>Ideon - Full Stack Developer </li>
-        <li>BAYKAR Teknoloji – Object Oriented Programming(ArcGIS) </li>
         <li>Anadolubank- Mobile Programming(Android)</li>
       </ul>
     ),
